@@ -1,1 +1,21 @@
-
+{
+        id: "robo001",
+        name: "SENAL Ar",
+        desc: "Best gunner"
+    },
+    {
+        id: "robo002",
+        name: "ERTON Ev",
+        desc: "I love blue metal toffees"
+    },
+    {
+        id: "robo003",
+        name: "TENHAM Tot",
+        desc: "Come on, you spanners"
+    },
+    {
+        id: "robo004",
+        name: "R-POOL Liv",
+        desc: "You'll never transform alone"
+    }
+}
